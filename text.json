@@ -1,0 +1,16 @@
+{
+    "IT":{
+        "starting":"\nAvvio browser...",
+        "authStart":"\n{} pronto, autenticarsi all'interno del browser\t",
+        "authEnd":"Autenticato!\t",
+        "generating":"Generazione calendario...",
+        "ready":"{} è pronto!"
+    },
+    "EN":{
+        "starting":"\nStarting browser...",
+        "authStart":"\n{} ready, please authenticate inside the browser\t",
+        "authEnd":"Authenticated!\t",
+        "generating":"Generating calendar...",
+        "ready":"{} is ready!"
+    }
+}
